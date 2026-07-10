@@ -55,23 +55,6 @@ The following models were implemented and evaluated:
 
 The developed models achieved strong predictive performance, with the best model reaching approximately **92% accuracy** after preprocessing and feature engineering.
 
-## Repository Structure
-
-```
-├── Crime_Prediction.ipynb
-├── Crimes_2022.csv
-├── README.md
-├── requirements.txt
-└── images/
-```
-
-## Future Improvements
-
-- Hyperparameter optimization
-- Cross-validation
-- Additional feature engineering
-- Deployment as a web application
-- Testing ensemble learning models such as Random Forest and XGBoost
 
 ## Author
 
